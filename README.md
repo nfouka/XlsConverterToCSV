@@ -1,3 +1,3 @@
 # XlsConverterToCSV
 
-USAGE : ./perle.pl <file name>
+USAGE : ./perle.pl file_name
