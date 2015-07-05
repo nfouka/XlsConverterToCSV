@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 # By Nadir.Fouka@ujf-grenoble.fr
-# Data Analyste Big Data LIG Grenoble France
+# Data Analyste France
 
 use strict;
 use Spreadsheet::ParseExcel;
